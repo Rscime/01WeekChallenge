@@ -1,4 +1,4 @@
-# 01 Weekly Challenge - UCF Coding Bootcamp
+# Horiseon Webpage - 01 Weekly Challenge - UCF Coding Bootcamp
 
 This application was completed by Rachel Scime as part of the UCF Coding Bootcamp.
 
